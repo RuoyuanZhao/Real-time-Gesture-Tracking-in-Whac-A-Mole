@@ -9,3 +9,4 @@ How to play?
 Some tips:
 1. Keep the background pure for convenience of tracking.
 2. Don't move too fast, LKT cannot work when two bounding boxes do not overlap.
+3. If the template does not work well, generate your own template by get_template.m.
